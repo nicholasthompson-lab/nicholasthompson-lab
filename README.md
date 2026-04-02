@@ -4,7 +4,7 @@
 
   - IT Service desk simulator
 
-    ![image alt]()
+    ![image alt](https://github.com/nicholasthompson-lab/nicholasthompson-lab/blob/4d073d94a90061dfd1013477b9efd91b0902b3f1/Screenshot%202026-04-01%20200801.png)
      ![image alt](image_url)
      ![image alt](image_url)
      ![image alt](image_url)
