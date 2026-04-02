@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 General IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - IT Service desk simulator
 
+  - 
 <h2>👨‍💻 Certifications:</h2>
 
 CompTIA A+
