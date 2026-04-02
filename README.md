@@ -4,7 +4,10 @@
 
   - IT Service desk simulator
 
-  - 
+    ![image alt]()
+     ![image alt](image_url)
+     ![image alt](image_url)
+     ![image alt](image_url)
 <h2>👨‍💻 Certifications:</h2>
 
 CompTIA A+
